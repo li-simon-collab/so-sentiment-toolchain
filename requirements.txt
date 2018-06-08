@@ -1,0 +1,12 @@
+daiquiri
+sqlalchemy
+pandas
+numpy
+seaborn
+beautifulsoup4
+markdown
+maya
+scipy
+matplotlib
+pytest
+pytest-mock
